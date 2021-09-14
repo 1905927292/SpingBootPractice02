@@ -1,0 +1,36 @@
+persony:
+  boss: false
+  birth: 2019/12/09
+  age: 19
+  interests:
+    - 篮球
+    - 足球
+    - 18
+  animal:
+    - 小猫
+    - 小狗
+    - 小母狗
+  score: {Chinses: 100,English: 90,Math: 122}
+  salarys:
+    - 9900.22
+    - 8002.33
+    - 7890.33
+  pet:
+    name: '小李\n'
+    weight: 99.99
+  allPets:
+    sick:
+      - {name: 小骗,weight: 100.00}
+      - name: 小二
+        weight: 99.99
+    health:
+      - {name: 小三,weight: 100.00}
+      - name: 小四
+        weight: 99.99
+  user-name: "张三\n"
+
+spring:
+ #mvc:
+    #static-path-pattern: /res/**
+  #resources:
+    #static-locations: classpath:/Pic

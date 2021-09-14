@@ -1,0 +1,6 @@
+debug=true
+spring.servlet.multipart.max-file-size=10MB
+mycar.brand=ibb
+mycar.price=10000
+
+
